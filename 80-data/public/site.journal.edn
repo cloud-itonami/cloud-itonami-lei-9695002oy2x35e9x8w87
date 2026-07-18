@@ -1,0 +1,5 @@
+[["ipsos-site-1" :site/url "https://www.ipsos.com" 1 :add]
+ ["ipsos-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["ipsos-site-1" :site/http-status 200 1 :add]
+ ["ipsos-site-1" :site/title "Ipsos | Global Market Research and Public Opinion Specialist" 1 :add]
+ ["ipsos-site-1" :site/description "Global leader in market research, Ipsos delivers reliable information and true understanding of Society, Markets and People. Our solutions use data from surveys, polls, social media or qualitative, and provide actionable insights into the experience and opinions of citizens, consumers, patients, customers, employees." 1 :add]]
