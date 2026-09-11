@@ -48,8 +48,8 @@ The LEI claims above used to be assertions with nothing in the repository behind
 registry response whose URL and retrieval time sit next to the value:
 
 ```
-nbb scripts/verify-facts.cljk           # check the recorded facts against the live sources
-nbb scripts/verify-facts.cljk --write   # re-fetch and rewrite facts.edn
+kbb --backend sci scripts/verify-facts.cljk           # check the recorded facts against the live sources
+kbb --backend sci scripts/verify-facts.cljk --write   # re-fetch and rewrite facts.edn
 ```
 
 Eleven GLEIF/ISO requests back the file (`CHECKED 11` when it was written,
